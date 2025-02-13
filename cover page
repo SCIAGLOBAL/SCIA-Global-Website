@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SCIA Global</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to SCIA Global</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Your Global Solutions Partner</h2>
+            <p>SCIA Global offers innovative solutions across various industries.</p>
+        </section>
+
+        <section id="about">
+            <h2>About Us</h2>
+            <p>We specialize in providing high-quality consulting services worldwide.</p>
+        </section>
+
+        <footer>
+            <p>&copy; 2025 SCIA Global</p>
+        </footer>
+    </main>
+</body>
+</html>
